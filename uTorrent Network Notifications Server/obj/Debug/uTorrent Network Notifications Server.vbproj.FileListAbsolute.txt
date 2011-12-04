@@ -1,0 +1,10 @@
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\uTorrent_Network_Notifications_Server.Form1.resources
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\uTorrent_Network_Notifications_Server.Resources.resources
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\uTorrent Network Notifications Server.vbproj.GenerateResource.Cache
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\bin\Debug\uTorrent Network Notifications Server.exe
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\bin\Debug\uTorrent Network Notifications Server.pdb
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\bin\Debug\uTorrent Network Notifications Server.xml
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\uTorrent Network Notifications Server.exe
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\uTorrent Network Notifications Server.xml
+C:\Users\Zarek Jenkinson\Documents\Visual Studio 2008\Projects\uTorrent Network Notifications\uTorrent Network Notifications Server\obj\Debug\uTorrent Network Notifications Server.pdb
