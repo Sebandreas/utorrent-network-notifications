@@ -14,3 +14,7 @@ Example: ipaddresses = 127.0.0.1,192.168.1.7
 ### On the computers you want to receive notifications
 Run the server executable (in uTorrent Network Notifications Server\bin\Debug).
 To start it automatically, place the executable in the Startup folder.
+
+## Licence
+uTorrent Network Notifications is released under the Simplified BSD Licence.
+For more details, see the LICENCE file.
