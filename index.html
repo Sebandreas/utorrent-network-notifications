@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+
+  <title>akiwiguy/utorrent-network-notifications @ GitHub</title>
+
+  <style type="text/css">
+    body {
+      margin-top: 1.0em;
+      background-color: #f594e0;
+      font-family: Helvetica, Arial, FreeSans, san-serif;
+      color: #000000;
+    }
+    #container {
+      margin: 0 auto;
+      width: 700px;
+    }
+    h1 { font-size: 3.8em; color: #0a6b1f; margin-bottom: 3px; }
+    h1 .small { font-size: 0.4em; }
+    h1 a { text-decoration: none }
+    h2 { font-size: 1.5em; color: #0a6b1f; }
+    h3 { text-align: center; color: #0a6b1f; }
+    a { color: #0a6b1f; }
+    .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+    .download { float: right; }
+    pre { background: #000; color: #fff; padding: 15px;}
+    hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+    .footer { text-align:center; padding-top:30px; font-style: italic; }
+  </style>
+</head>
+
+<body>
+  <a href="https://github.com/akiwiguy/utorrent-network-notifications"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+
+  <div id="container">
+
+    <div class="download">
+      <a href="https://github.com/akiwiguy/utorrent-network-notifications/zipball/master">
+        <img border="0" width="90" src="https://github.com/images/modules/download/zip.png"></a>
+      <a href="https://github.com/akiwiguy/utorrent-network-notifications/tarball/master">
+        <img border="0" width="90" src="https://github.com/images/modules/download/tar.png"></a>
+    </div>
+
+    <h1><a href="https://github.com/akiwiguy/utorrent-network-notifications">utorrent-network-notifications</a>
+      <span class="small">by <a href="https://github.com/akiwiguy">akiwiguy</a></span></h1>
+
+    <div class="description">
+      A client-server approach to pushing notifications about torrents to several computers on the network.
+    </div>
+
+    
+
+    
+      <h2>Dependencies</h2>
+      <p>.NET Framework 3.5</p>
+    
+
+    
+      <h2>Install</h2>
+      <p>On the computer running uTorrent:
+Place the client executable and settings.ini (in uTorrent Network Notifications Client\bin\Debug) in the uTorrent folder (usually C:\Program Files\uTorrent). 
+In the uTorrent settings, go to Advanced > Run Program. Paste the following in the "Run this program when a torrent changes state" textbox: "C:\Program Files\uTorrent\uTorrent Network Notifications Client.exe" "Torrent '%N' is now %M." 
+Open settings.ini in a text editor, and place a comma-separated list of IP addresses to notify in the "ipaddresses" list. The default is to notify only 127.0.0.1, which is of course only useful for testing. 
+Example: ipaddresses = 127.0.0.1,192.168.1.7
+
+On the computers you want to receive notifications:
+Run the server executable (in uTorrent Network Notifications Server\bin\Debug). To start it automatically, place the executable in the Startup folder.</p>
+    
+
+    
+      <h2>License</h2>
+      <p>uTorrent Network Notifications is released under the Simplified BSD Licence.</p>
+    
+
+    
+      <h2>Authors</h2>
+      <p>Zarek Jenkinson (me@akiwiguy.net)<br/>      </p>
+    
+
+    
+      <h2>Contact</h2>
+      <p>Zarek Jenkinson (me@akiwiguy.net)<br/>      </p>
+    
+
+    <h2>Download</h2>
+    <p>
+      You can download this project in either
+      <a href="https://github.com/akiwiguy/utorrent-network-notifications/zipball/master">zip</a> or
+      <a href="https://github.com/akiwiguy/utorrent-network-notifications/tarball/master">tar formats.
+    </p>
+    <p>You can also clone the project with <a href="http://git-scm.com">Git</a>
+      by running:
+      <pre>$ git clone git://github.com/akiwiguy/utorrent-network-notifications</pre>
+    </p>
+
+    <div class="footer">
+      get the source code on GitHub : <a href="https://github.com/akiwiguy/utorrent-network-notifications">akiwiguy/utorrent-network-notifications</a>
+    </div>
+
+  </div>
+
+</body>
+</html>
